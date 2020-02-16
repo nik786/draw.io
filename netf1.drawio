@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-16T14:08:11.882Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="G5muunF84wx9Jc0kCcif" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-16T14:13:25.860Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="TXZdm2jeepd1pIWuRCZz" version="12.7.0" type="github">
   <diagram id="MvgryUSO-WaIaVxmrUyc" name="Page-1">
     <mxGraphModel dx="782" dy="423" grid="1" gridSize="19" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -292,12 +292,6 @@
         </mxCell>
         <mxCell id="9fpFaIlWNL28QZtfQ_b3-231" value="ecr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="453.31" width="39" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="9fpFaIlWNL28QZtfQ_b3-232" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="1080" as="sourcePoint"/>
-            <mxPoint x="140" y="1030" as="targetPoint"/>
-          </mxGeometry>
         </mxCell>
         <mxCell id="9fpFaIlWNL28QZtfQ_b3-234" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
