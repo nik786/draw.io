@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2020-08-05T11:30:39.070Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="Bu-zI4i8kSnSm-s5jdft" version="13.5.8" type="github">
+  <diagram id="GeAs2spHdK2YdpXc0LnL" name="Page-1">
+    <mxGraphModel dx="868" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.trusted_advisor;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="152" width="37.5" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="158" width="42.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.event_time_based;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="152" width="43" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="168.5" width="39" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="499" y="280" width="40" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="183.25" as="sourcePoint" />
+            <mxPoint x="260" y="183.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="183.25" as="sourcePoint" />
+            <mxPoint x="380" y="183.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="183.25" as="sourcePoint" />
+            <mxPoint x="490" y="183.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-10" value="&lt;b&gt;TA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-12" value="&lt;b&gt;CLOUDWATCH&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-13" value="&lt;b&gt;EVENT BASED&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-14" value="&lt;b&gt;LAMBDA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="499" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-15" value="&lt;b&gt;STOP INSTANCE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="107.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-16" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ30k-9a2RQgFgp68vfa-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="230" as="sourcePoint" />
+            <mxPoint x="519" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
