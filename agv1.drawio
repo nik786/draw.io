@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="18jR5IUm4-wpAappTB7k">
-    <mxGraphModel dx="1027" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,16 +26,16 @@
           <mxGeometry x="576" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fjNKbBPinnXTNL9WM4Bn-84" value="/fleet-ag/api/v1/product/GetProduct/1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="717.31" y="663.38" width="229.75" height="30" as="geometry" />
+          <mxGeometry x="688.5" y="663.38" width="229.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fjNKbBPinnXTNL9WM4Bn-85" value="/fleet-ag/v1/health-check" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="738.75" y="633.38" width="141" height="30" as="geometry" />
+          <mxGeometry x="700" y="642.88" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fjNKbBPinnXTNL9WM4Bn-92" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="940" y="730" width="38.5" height="46" as="geometry" />
+          <mxGeometry x="931.5" y="711.75" width="38.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="fjNKbBPinnXTNL9WM4Bn-93" value="Developer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="929.25" y="776" width="60" height="30" as="geometry" />
+          <mxGeometry x="920.75" y="757.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fjNKbBPinnXTNL9WM4Bn-98" value="Clients" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="910" y="446.15" width="60" height="30" as="geometry" />
@@ -265,10 +265,10 @@
             <mxPoint x="145" y="561.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WS8RE65tCZXlaoePpWTr-120" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="WS8RE65tCZXlaoePpWTr-120" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.225;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WS8RE65tCZXlaoePpWTr-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="460" as="sourcePoint" />
-            <mxPoint x="200" y="500" as="targetPoint" />
+            <mxPoint x="220" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WS8RE65tCZXlaoePpWTr-122" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jWgn3CXW3hCYVttjlozP-32">
@@ -304,8 +304,14 @@
         <mxCell id="WS8RE65tCZXlaoePpWTr-137" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="528.85" as="sourcePoint" />
-            <mxPoint x="960" y="730" as="targetPoint" />
+            <mxPoint x="950" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WS8RE65tCZXlaoePpWTr-138" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="223" width="880.88" height="677" as="geometry" />
+        </mxCell>
+        <mxCell id="WS8RE65tCZXlaoePpWTr-139" value="" style="dashed=0;html=1;shape=mxgraph.aws3.cloud;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="199.65" width="52" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
